@@ -1,0 +1,7 @@
+# numpy-100-ja gitignore
+
+# ignore files
+README.html
+
+# ignore directories
+.ipynb_checkpoints/
